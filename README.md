@@ -1,0 +1,2 @@
+# Blog
+Creating a legacy.
