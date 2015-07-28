@@ -1,0 +1,17 @@
+header-img: imgs/3bffs.jpg
+email: talivog@wharton.upenn.edu
+description: "Write your site description here. It will be used as your sites meta description as well!"
+baseurl: ""
+url: "http://taligacy.com"
+# url: "http://localhost:4000"
+twitter_username: talivog
+github_username:  talivog
+facebook_username:  talivogelstein
+instagram_username: talivog
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
